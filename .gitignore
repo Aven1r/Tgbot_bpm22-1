@@ -1,3 +1,9 @@
+# Project files
 **/.venv
 __pycache__
+
+# Privacy checks
 telegram_token.py
+links.py
+db
+users.db
