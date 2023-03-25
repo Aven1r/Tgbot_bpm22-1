@@ -1,3 +1,5 @@
+import links 
+
 start = """Привет!
 
 Это Telegram Бот-Компаньон группы БПМ-22-1.
@@ -12,3 +14,6 @@ start = """Привет!
 /Links - список ссылок и полезных материалов
 /Schedule - расписание пар
 """
+
+vk = links.vk
+google = links.google
