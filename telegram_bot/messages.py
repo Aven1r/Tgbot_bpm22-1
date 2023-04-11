@@ -17,3 +17,5 @@ start = """Привет!
 
 vk = links.vk
 google = links.google
+teams = links.teams
+lms = links.lms
