@@ -14,7 +14,7 @@ The University Telegram Bot has the following features:
 ## Installation
 - Clone the repository to your local machine:
 ```
-git clone https://github.com/your_username/university-telegram-bot.git
+git clone https://github.com/Aven1r/Tgbot_bpm22-1.git
 ```
 - Install the required packages:
 ```
