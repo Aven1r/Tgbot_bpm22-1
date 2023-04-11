@@ -5,5 +5,7 @@ __pycache__
 # Privacy checks
 telegram_token.py
 links.py
-db
+schedule.db
+notes
 users.db
+homework.db
