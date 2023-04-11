@@ -1,8 +1,8 @@
 import logging
 import sqlite3
-import telegram_token
 import tracemalloc
 import datetime
+import sys
 
 from telegram import (
     Update,
@@ -21,7 +21,10 @@ from telegram.ext import (
     MessageHandler,
     filters,
 )
+sys.path.insert(1, '/Users/avenir/vscode/Python/Tgbot_bpm22-1/telegram_bot/stuff')
+sys.path.insert(2, '/Users/avenir/vscode/Python/Tgbot_bpm22-1/telegram_bot/db')
 
+import telegram_token
 import messages
 
 
